@@ -1,0 +1,23 @@
+_repo: Army-Boys-in-the-French-Trenches--Or-Hand-to-Hand-Fighting-with-the-Enemy_9789
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Randall, Homer
+    gutenberg_agent_id: '1970'
+    url: http://www.gutenberg.org/2009/agents/1970
+description: ''
+gutenberg_bookshelf: World War I
+gutenberg_issued: '2006-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9789'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- France -- Fiction'
+- !lcc 'PZ'
+- GITenberg
+title: Army Boys in the French Trenches; Or, Hand to Hand Fighting with the Enemy
+url: http://www.gutenberg.org/ebooks/9789
